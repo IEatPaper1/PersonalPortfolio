@@ -14,7 +14,7 @@ const Home = () => {
           <div class="w-1/4 ml-[275px]">
             <div>My name is Avery</div>
             <div>I'm currently a sophomore at Tottenville Highschool</div>
-            <div>I am currently pursuing a career on game development</div>
+            <div>I am also pursuing a career on game development</div>
           </div>
         </div>
       </div>
